@@ -1,6 +1,6 @@
 # Sivupolku
 ### Kuinka hyvin todella tunnet lähialueesi tiet ja polut 🗺️?
-> Palautus esikarsinnan tehtävään (sarja: junnnusarja)
+> Palautus Softamestari 2026 esikarsinnan tehtävään (sarja: junnnusarja)
 
 
 
