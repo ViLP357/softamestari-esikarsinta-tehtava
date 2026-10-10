@@ -1,13 +1,15 @@
 # Sivupolku
 ### Kuinka hyvin todella tunnet lähialueesi tiet ja polut 🗺️?
+> Palautus esikarsinnan tehtävään (sarja: junnnusarja)
+
+
 
 ## Sovelluksen idea
 Pelaaja valitsee haluamansa kategorian, josta etsitään kohde pelaajan valitsemalla etäisyydellä. Pelaaja ei näe kohteen tarkkaa sijaintia, joten pelaajan täytyy itse etsiä reitti ilman navigaattorin apua. Pelatessa pääsee testaamaan, kuinka hyvin todella tuntee lähialueensa kulkureitit ja pääsee tutustumaan lähialueen kulttuuri- ja taidekohteisiin.
 
-Sovelluksen tarkoituksena on innostaa ihmisiä liikkumaan lähiympäristössään ja helpottaa lähialueen kulttuuri- ja taidekohteisiin tutustumista. Pelillisyys lisää sovelluksen kiinnostavuutta ja innostavuutta. Pelaajan ei kannata odottaa voivansa kävellä suoraan kohteeseen, vaan hän joutuu itse miettimään miten pääseen kartan osoittamaan suuntaan.
+Sovelluksen tarkoituksena on innostaa ihmisiä liikkumaan lähiympäristössään ja lisätä tietoa lähialueen kulttuuri- ja taidekohteista. Pelaajan ei kannata odottaa voivansa kävellä suoraan kohteeseen, vaan hän joutuu itse miettimään miten pääseen kartan osoittamaan suuntaan.
 
-Sovellus skaalautuu puhelimen näytölle, mikä tekee sen käytöstä mielekkäämpää.
-
+Sovellus skaalautuu puhelimen näytölle, mikä tekee sen käytöstä käytännöllisempää.
 ## Demokuva
 
 ![Kuvakaappaus Sivupolku-sovelluksesta](./src/assets/demokuva.png)
