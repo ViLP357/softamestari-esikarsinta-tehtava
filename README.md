@@ -12,9 +12,14 @@ Sovelluksen tarkoituksena on innostaa ihmisiä liikkumaan lähiympäristössää
 Sovellus skaalautuu puhelimen näytölle, mikä tekee sen käytöstä käytännöllisempää.
 ## Demokuva
 
-![Kuvakaappaus Sivupolku-sovelluksesta](./src/assets/demokuva.png)
 
-![Sovellus on myös testattu toimivaksi](./src/assets/foundDemoPicture.jpg)
+<img src="./src/assets/demokuva.png" width="800">
+
+Kuvakaappaus Sivupolku-sovelluksesta
+
+<img src="./src/assets/foundDemoPicture.jpg" width="480">
+
+Sovellus on myös testattu toimivaksi
 
 ## Ominaisuudet
 - Käyttäjä voi valita itselleen mieluisan kategorian, josta mysteerikohde etsitään.
