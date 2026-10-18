@@ -12,6 +12,8 @@ Sovellus skaalautuu puhelimen näytölle, mikä tekee sen käytöstä mielekkä�
 
 ![Kuvakaappaus Sivupolku-sovelluksesta](./src/assets/demokuva.png)
 
+![Sovellus on myös testattu toimivaksi](./src/assets/foundDemoPicture.jpg)
+
 ## Ominaisuudet
 - Käyttäjä voi valita itselleen mieluisan kategorian, josta mysteerikohde etsitään.
 - Kohteen maksimietäisyys voidaan valita
